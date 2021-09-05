@@ -2,6 +2,8 @@
 
 :imp:[Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/):imp:
 
+[certbot Nginx on CentOS/RHEL 7](https://certbot.eff.org/lets-encrypt/centosrhel7-nginx)
+
 <!--
 **cuichaoyang/cuichaoyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
