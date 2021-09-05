@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:imp:
+:imp:[Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/):imp:
 
 <!--
 **cuichaoyang/cuichaoyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
