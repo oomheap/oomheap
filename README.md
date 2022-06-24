@@ -2,6 +2,8 @@
 
 [Dashboard](https://github.com/users/cuichaoyang/projects/1?fullscreen=true)
 
+[Effective Java 3th](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)
+
 :imp:[Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/):imp:
 
 [certbot Nginx on CentOS/RHEL 7](https://certbot.eff.org/lets-encrypt/centosrhel7-nginx)
