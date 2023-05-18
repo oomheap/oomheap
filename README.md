@@ -2,7 +2,7 @@
 
 [Safari Repair](https://www.zhihu.com/question/448973963)
 
-[Dashboard TODO](https://github.com/users/cuichaoyang/projects/1?fullscreen=true)
+[Dashboard TODO](https://github.com/users/xiaocuii/projects/1?fullscreen=true)
 
 [Effective Java 3th](https://github.com/clxering/Effective-Java-3rd-edition-Chinese-English-bilingual)
 
@@ -10,10 +10,10 @@
 
 [certbot Nginx on CentOS/RHEL 7](https://certbot.eff.org/lets-encrypt/centosrhel7-nginx)
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cuichaoyang&show_icons=true&include_all_commits=true)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=xiaocuii&show_icons=true&include_all_commits=true)
 
 <!--
-**cuichaoyang/cuichaoyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**xiaocuii/xiaocuii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
