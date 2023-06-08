@@ -10,6 +10,9 @@
 
 [certbot Nginx on CentOS/RHEL 7](https://certbot.eff.org/lets-encrypt/centosrhel7-nginx)
 
+[一些鼠标特效](https://tholman.com/cursor-effects/)
+[CursorEffects](https://github.com/tholman/cursor-effects)
+
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oomheap&show_icons=true&include_all_commits=true)
 
 <!--
